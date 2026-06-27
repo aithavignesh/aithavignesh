@@ -49,18 +49,33 @@
   <a href="https://leetcode.com/u/aitha_vignesh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-640%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+
+  <a href="https://www.hackerrank.com/_Vignesh_47" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-_Vignesh_47-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="https://www.codechef.com/users/aitha_vignesh1" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-aitha__vignesh1-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/_Vignesh_47" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-_Vignesh_47-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/aitha_vignesh?theme=dark&font=Baloo&ext=contest" />
-</p>
+### 💡 Competitive Programming
 
-<p align="center">
-  🏅 Solved <b>640+ Problems</b> on LeetCode <br>
-  🧠 Strong in <b>Data Structures & Algorithms</b> <br>
-  🚀 Consistently practicing coding interview questions
-</p>
+- 🏆 Solved **640+ problems** on **LeetCode**
+- 💻 Strong in **Data Structures & Algorithms**
+- 🚀 Active on **LeetCode, HackerRank, CodeChef, and Codeforces**
+- 🎯 Regularly practice coding interview and contest problems
+  # 🏅 Achievements
 
+- 🏆 Solved **640+ DSA problems** on LeetCode.
+- 🎓 Successfully completed the **Google AI-ML Virtual Internship** (10 weeks).
+- 🤖 Developed a **Brain Tumor Detection System** using Deep CNN.
+- ☕ Strong programming skills in **Java, Python, and C**.
+- 🌱 Passionate about Artificial Intelligence and Software Development.
 # 🌐 Connect With Me
 
 <p align="left">
