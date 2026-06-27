@@ -63,6 +63,16 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/aitha_vignesh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-640%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aitha_vignesh?theme=dark&font=Baloo&ext=contest" />
+</p>
+
 ### 💡 Competitive Programming
 
 - 🏆 Solved **640+ problems** on **LeetCode**
