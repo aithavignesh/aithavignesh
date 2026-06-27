@@ -54,6 +54,11 @@
 - 🏅 Solved **640+ problems** on **LeetCode**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
 - 🚀 Regularly practice interview-level coding problems
+## 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aitha_vignesh?theme=dark&font=Baloo&ext=contest" />
+</p>
 
 # 🌐 Connect With Me
 
