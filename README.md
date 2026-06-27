@@ -54,10 +54,22 @@
 - 🏅 Solved **640+ problems** on **LeetCode**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
 - 🚀 Regularly practice interview-level coding problems
-## 📈 LeetCode Stats
+# 🏆 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/aitha_vignesh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-640%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/aitha_vignesh?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+<p align="center">
+  🏅 Solved <b>640+ Problems</b> on LeetCode <br>
+  🧠 Strong in <b>Data Structures & Algorithms</b> <br>
+  🚀 Consistently practicing coding interview questions
 </p>
 
 # 🌐 Connect With Me
