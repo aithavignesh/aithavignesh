@@ -43,6 +43,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
+# 🏆 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/aitha_vignesh/">
+    <img src="https://img.shields.io/badge/LeetCode-640%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+- 🏅 Solved **640+ problems** on **LeetCode**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 🚀 Regularly practice interview-level coding problems
 
 # 🌐 Connect With Me
 
